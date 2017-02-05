@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import MeuComponente from './components/MeuComponente';
+
 export default class HelloWorld extends React.Component {
 	render() {
 		return (
@@ -8,4 +10,5 @@ export default class HelloWorld extends React.Component {
 		);
 	}
 }
-ReactDOM.render(<HelloWorld/>, document.getElementById('app'));
+
+ReactDOM.render(<MeuComponente/>, document.getElementById('app'));
