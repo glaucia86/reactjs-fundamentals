@@ -17,7 +17,6 @@ Basta digitar o comando:
 
 ```
 npm run dev
-
 ```
 E depois abrir o browser desejável no endereço: **http://localhost:8080**
 
