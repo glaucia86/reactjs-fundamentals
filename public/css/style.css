@@ -9,11 +9,11 @@ body {
   margin-bottom: 60px;
 }
 footer {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 100px;
+  height: auto;
   background-color: #E8E8E8;
 }
 
